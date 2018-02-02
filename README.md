@@ -1,24 +1,8 @@
 # 02a-Exercises-Functions-and-Dictionaries
 
-Here are some exercises to help you learn about Python functions, sets, and dictionaries. This is the second set of exercises for ILS-Z399. To complete these exercises:
-
-Open the IDLE program that came with your Python installation. Use IDLE to interpret the Python code and answer the questions in the file.
-
-Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line.
-
-In the exercise file, you will see a series of Python statements followed by comment lines. Run the Python statements in IDLE and then add the answer to the comment on the following line.
-
-For example, if the exercise contained these statements:
-~~~ 
-10 + 15
-#
-~~~
-You would enter the statement 10 + 15 into IDLE. After hitting enter, IDLE returns 25, and so you would copy that response after the # on the following line.
-
-Some of the exercises require you to interpret what is going on. Feel free to explore other variations in IDLE until you can come up with a reasonable explanation. 
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name), and edit this file to describe what your code does.
-
+In this excersie I practiced tunig up my python skills and practiced learning new material such as dictionaries and functions
+This exercice will help with making the next assignment, making a novel role playing game where you have a few choices that will bring you to different locations wiht different options
+I still have to learn more before I am completely ready to dive into the assignment, but after working with thesee xercises I feel more confident with moving forward
 ---
 
 The grading criteria will be as follows:
